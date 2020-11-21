@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tekrar</title>
     <link rel="stylesheet" href="css/index.css">
 </head>
@@ -11,6 +6,3 @@
     <button><a href="bio.php">Biologiya</a></button>
     <button><a href="aztrx.php">Azərbaycan Tarixi</a></button>
     <button><a href="azdili.php">Azərbaycan dili</a></button>
-    </div>
-</body>
-</html>
